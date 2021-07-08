@@ -17,6 +17,16 @@ sidebar_position: 3
 
 您可以前往任意一个频道（建议在 `#🤖bot-commands` 频道）输入指令 `/account reg <Element>` 即可。`Element` 参数有四个选项，Discord 会自动补全指令，并且显示可供选择的4个选项。
 
+`<Element>` 可以是以下值：
+- `herba` : 草团
+- `aqua` : 水团
+- `flame` : 火团
+- `earth` : 土团
+
+每一种元素对应了服务器中的一个主城。
+
+你五种属性，`Gold` 是 `Twitch Subscriber` 和 Blibili 大航海用户专有的。
+
 :::caution
 请注意，如果 Discord 没有自动补全指令，那么代表您没有在这个频道使用 Slash Command 的权限，建议前往 `#🤖bot-commands` 频道使用指令
 :::
