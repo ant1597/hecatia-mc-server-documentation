@@ -11,7 +11,7 @@ sidebar_position: 2
 | Premium player login point | Not announced yet | Deployment in progress, going live soon |
 | Cracked player login point | Not announced yet | Deployment in progress, going live soon |
 
-## 服务器
+## Server Cluster
 
 | Server name | Element | Status |
 | --- | --- | --- |
