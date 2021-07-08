@@ -5,7 +5,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 module.exports = {
   title: "Hecatia Minecraft server documentation",
   tagline: ">_- Kira🌟",
-  url: "https://mc-doc.hecatia.top",
+  url: "https://docs.hecatia.moe/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
