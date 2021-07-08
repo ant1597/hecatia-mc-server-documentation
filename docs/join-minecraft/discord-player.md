@@ -36,7 +36,7 @@ sidebar_position: 3
 
 ![discord-reg-command-finish](../../static/img/join-minecraft/discord-reg-command-finish.png)
 
-您可以使用 `/account query` 指令来获取账户信息，其中包含了您的 Discord 用户名，Discord UID，Element，Minecraft UUID，Minecraft 玩家名以及 Minecraft 是否为正版的信息。
+您可以使用 `/account query` 指令来获取账户信息，其中包含了您的 Discord 用户名，Discord UID，Element，Minecraft UUID，Minecraft 玩家名以及 Minecraft 账号类型（正版/离线模式）的信息。
 
-![discord-reg-command-finish](../../static/img/join-minecraft/discord-query-command.png)
+![discord-query-command](../../static/img/join-minecraft/discord-query-command.png)
 
