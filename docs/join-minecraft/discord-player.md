@@ -30,8 +30,9 @@ sidebar_position: 3
 稍等片刻，等待指令执行完成，执行成功的回复如下，其中包含了您的 UID 和 所选择的 Element 字符串。
 
 :::info
-由于一些未知的原因，有些时候指令执行完成的消息返回速度较慢，请稍等片刻，一般最长不会超过 1 分钟。
-根据后台的日志记录，我们初步认为这是 Discord 处理 PATCH 请求较慢而导致的。
+由于一些未知的原因，有些时候指令执行完成的消息返回速度较慢，请稍等片刻，并且不要刷新页面或者离开频道，一般最长不会超过 2 分钟。
+
+根据后台的日志记录，我们初步认为这是 Discord 处理 HTTP PATCH 请求较慢而导致的。
 :::
 
 ![discord-reg-command-finish](../../static/img/join-minecraft/discord-reg-command-finish.png)
