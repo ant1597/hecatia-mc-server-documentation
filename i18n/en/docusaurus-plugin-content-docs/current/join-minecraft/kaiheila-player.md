@@ -8,8 +8,8 @@ Please make sure you want to connect from Kaiheila. You can choose only one betw
 
 We recommend that players in China choose to connect from Kaiheila.
 
-- Users with the `Twitch Subscriber` role in Discord will get the `Gold` player access group in the server
-- Users with the `金弹幕兽（舰长）` or `提督弹幕兽` or `总督弹幕兽` role in Kaiheila will get the `Gold` player access group in the server
+- Users with the `Twitch Subscriber` role in Discord will get the `Energy` player access group in the server
+- Users with the `金弹幕兽（舰长）` or `提督弹幕兽` or `总督弹幕兽` role in Kaiheila will get the `Energy` player access group in the server
 
 :::caution
 The Kaiheila bot is not stable, and there may be a problem with duplicate bot return messages. If you receive two messages at the same time, please refer to the latter one.
@@ -45,14 +45,14 @@ You can execute command `/account query` to get your information.
 Please go to `#弹幕兽身份申请` and send the command `/account element <Element>` to get your element role. Please note that this property will not be able to be changed in the future.
 
 :::note
-Note that even if you have a `Gold` role, you must also have a regular one of the four roles.
+Note that even if you have a `Energy` role, you must also have a regular one of the four roles.
 :::
 
 `<Element>` can be the following values:
-- `herba` : Grass
-- `aqua` : Water
-- `flame` : Fire
-- `earth` : Dirt
+- `Wind` : Wind Element Chattor
+- `Aqua` : Aqua Element Chattor
+- `Fire` : Fire Element Chattor
+- `Earth` : Earth Element Chattor
 
 After successful acquisition, you will get the corresponding role.
 

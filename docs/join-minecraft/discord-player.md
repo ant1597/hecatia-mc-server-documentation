@@ -8,8 +8,8 @@ sidebar_position: 3
 
 我们建议非中国玩家选择从 Discord 进行连接。
 
-- 在 Discord 中拥有 `Twitch Subscriber` 角色的用户将在服务器中获取 `Gold` 玩家权限组
-- 在 开黑啦 中拥有 `金弹幕兽（舰长）` 或 `提督弹幕兽` 或 `总督弹幕兽` 角色的用户将在服务器中获取 `Gold` 玩家权限组
+- 在 Discord 中拥有 `Twitch Subscriber` 角色的用户将在服务器中获取 `Energy` 玩家权限组
+- 在 开黑啦 中拥有 `金弹幕兽（舰长）` 或 `提督弹幕兽` 或 `总督弹幕兽` 角色的用户将在服务器中获取 `Energy` 玩家权限组
 
 ## 第一步（也是最后一步）
 
@@ -18,14 +18,14 @@ sidebar_position: 3
 您可以前往任意一个频道（建议在 `#🤖bot-commands` 频道）输入指令 `/account reg <Element>` 即可。`Element` 参数有四个选项，Discord 会自动补全指令，并且显示可供选择的4个选项。
 
 `<Element>` 可以是以下值：
-- `Herba` : 草团
-- `Aqua` : 水团
-- `Flame` : 火团
-- `Earth` : 土团
+- `Wind` : 草弹幕兽
+- `Aqua` : 海弹幕兽
+- `Fire` : 火弹幕兽
+- `Earth` : 土弹幕兽
 
 每一种元素对应了服务器中的一个主城。
 
-你五种属性，`Gold` 是 `Twitch Subscriber` 和 Blibili 大航海用户专有的。
+你五种属性，`Energy` 是 `Twitch Subscriber` 和 Blibili 大航海用户专有的。
 
 :::caution
 请注意，如果 Discord 没有自动补全指令，那么代表您没有在这个频道使用 Slash Command 的权限，建议前往 `#🤖bot-commands` 频道使用指令
