@@ -18,10 +18,10 @@ sidebar_position: 3
 您可以前往任意一个频道（建议在 `#🤖bot-commands` 频道）输入指令 `/account reg <Element>` 即可。`Element` 参数有四个选项，Discord 会自动补全指令，并且显示可供选择的4个选项。
 
 `<Element>` 可以是以下值：
-- `herba` : 草团
-- `aqua` : 水团
-- `flame` : 火团
-- `earth` : 土团
+- `Herba` : 草团
+- `Aqua` : 水团
+- `Flame` : 火团
+- `Earth` : 土团
 
 每一种元素对应了服务器中的一个主城。
 
