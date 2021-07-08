@@ -1,0 +1,50 @@
+{
+  "link.title.Hecatia | 赫卡Tia": {
+    "message": "Hecatia | 赫卡Tia",
+    "description": "The title of the footer links column with title=Hecatia | 赫卡Tia in the footer"
+  },
+  "link.title.Community | 社区": {
+    "message": "Community | 社区",
+    "description": "The title of the footer links column with title=Community | 社区 in the footer"
+  },
+  "link.title.Nibiru Research Center | 尼比鲁研究中心": {
+    "message": "Nibiru Research Center | 尼比鲁研究中心",
+    "description": "The title of the footer links column with title=Nibiru Research Center | 尼比鲁研究中心 in the footer"
+  },
+  "link.item.label.Bilibili": {
+    "message": "Bilibili",
+    "description": "The label of footer link with label=Bilibili linking to https://space.bilibili.com/693"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/Hecatiaz"
+  },
+  "link.item.label.Twitch": {
+    "message": "Twitch",
+    "description": "The label of footer link with label=Twitch linking to https://www.twitch.tv/hecatiaz"
+  },
+  "link.item.label.Patreon": {
+    "message": "Patreon",
+    "description": "The label of footer link with label=Patreon linking to https://www.patreon.com/Hecatia"
+  },
+  "link.item.label.Pixiv": {
+    "message": "Pixiv",
+    "description": "The label of footer link with label=Pixiv linking to https://www.pixiv.net/artworks/90288006"
+  },
+  "link.item.label.Discord (English)": {
+    "message": "Discord (English)",
+    "description": "The label of footer link with label=Discord (English) linking to https://discord.gg/hecatia"
+  },
+  "link.item.label.Kaiheila (中文)": {
+    "message": "Kaiheila (中文)",
+    "description": "The label of footer link with label=Kaiheila (中文) linking to https://kaihei.co/w0wd4H"
+  },
+  "link.item.label.Github": {
+    "message": "Github",
+    "description": "The label of footer link with label=Github linking to https://github.com/NibiruResearchCenter/"
+  },
+  "copyright": {
+    "message": "Copyright © 2021 Nibiru Research Center. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}
