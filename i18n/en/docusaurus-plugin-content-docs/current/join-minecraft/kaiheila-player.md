@@ -31,13 +31,13 @@ After successful login, you will be notified of the login operation on Bilibili 
 The Kaiheila bot is not stable. When this operation is performed, it is possible that the QR code haven't returned for 30 seconds. If this happens, please wait 10 minutes (slow mode limit) and try again. If the second attempt still fails, please contact the administrator.
 :::
 
-![kaiheila-bind-bili](../../static/img/join-minecraft/kaiheila-bind-bili.png)
+![kaiheila-bind-bili](../../../../../static/img/join-minecraft/kaiheila-bind-bili.png)
 
 After successful binding, you will get the "BILIBILI已绑定" role. If you are a Bilibili Live Guard subscriber, you will receive the corresponding role. Please note that there may be a delay of up to 2 hours in obtaining the role.
 
 You can execute command `/account query` to get your information.
 
-![kaiheila-query](../../static/img/join-minecraft/kaiheila-query.png)
+![kaiheila-query](../../../../../static/img/join-minecraft/kaiheila-query.png)
 
 
 ## Step 2 - Get Element Role
@@ -56,4 +56,4 @@ Note that even if you have a `Gold` role, you must also have a regular one of th
 
 After successful acquisition, you will get the corresponding role.
 
-![kaiheila-element](../../static/img/join-minecraft/kaiheila-element.png)
+![kaiheila-element](../../../../../static/img/join-minecraft/kaiheila-element.png)

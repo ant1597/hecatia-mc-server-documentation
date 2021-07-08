@@ -31,11 +31,11 @@ The fifth element, `Gold` is exclusive to `Twitch Subscriber` and Bilibili Live 
 Please note that if Discord does not auto-complete commands, then you do not have permission to use Slash Command on this channel, so it is recommended to go to the `#🤖bot-commands` channel to use the commands.
 :::
 
-![discord-reg-command](../../static/img/join-minecraft/discord-reg-command.png)
+![discord-reg-command](../../../../../static/img/join-minecraft/discord-reg-command.png)
 
 After the command is issued, the server will receive the request and start processing it.
 
-![discord-command-pending](../../static/img/join-minecraft/discord-command-pending.png)
+![discord-command-pending](../../../../../static/img/join-minecraft/discord-command-pending.png)
 
 Wait a moment for the command process to complete, and the successful response will be as follows, with your UID and the selected Element string.
 
@@ -45,9 +45,9 @@ For some unknown reasons, sometimes the command completion message is slow to re
 Based on the logs in the backend, we initially believe that this is caused by Discord's slow processing of HTTP PATCH requests.
 :::
 
-![discord-reg-command-finish](../../static/img/join-minecraft/discord-reg-command-finish.png)
+![discord-reg-command-finish](../../../../../static/img/join-minecraft/discord-reg-command-finish.png)
 
 You can use the `/account query` command to get account information, which contains information about your Discord username, Discord UID, Element, Minecraft UUID, Minecraft player name, and Minecraft account type (premium/cracked).
 
-![discord-query-command](../../static/img/join-minecraft/discord-query-command.png)
+![discord-query-command](../../../../../static/img/join-minecraft/discord-query-command.png)
 

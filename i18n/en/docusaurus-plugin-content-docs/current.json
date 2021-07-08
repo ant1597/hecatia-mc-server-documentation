@@ -2,5 +2,13 @@
   "version.label": {
     "message": "Next",
     "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.进入服务器前的准备": {
+    "message": "Preparation before entering the server",
+    "description": "The label for category 进入服务器前的准备 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.第一次进入服务器": {
+    "message": "First time to the server",
+    "description": "The label for category 第一次进入服务器 in sidebar tutorialSidebar"
   }
 }
