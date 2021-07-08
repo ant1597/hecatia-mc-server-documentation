@@ -1,8 +1,8 @@
 # Hecatia Minecraft Server Documentation | 赫卡Tia Minecraft 服务器文档
 
-赫卡Tia Minecraft 服务器文档 的源码, 使用 [Docusaurus](https://docusaurus.io/) 制作, 部署在 Azure Static Web App. 访问文档: [https://mc-doc.hecatia.top](https://mc-doc.hecatia.top).
+赫卡Tia Minecraft 服务器文档 的源码, 使用 [Docusaurus](https://docusaurus.io/) 制作, 部署在 Azure Static Web App. 访问文档: [https://docs.hecatia.moe](https://docs.hecatia.moe).
 
-Hecatia Minecraft server documentation source code. Built with [Docusaurus](https://docusaurus.io/). Deployed on Azure Static Web App. Visit the documentation: [https://mc-doc.hecatia.top](https://mc-doc.hecatia.top).
+Hecatia Minecraft server documentation source code. Built with [Docusaurus](https://docusaurus.io/). Deployed on Azure Static Web App. Visit the documentation: [https://docs.hecatia.moe](https://docs.hecatia.moe).
 
 ## Translate | 翻译
 
