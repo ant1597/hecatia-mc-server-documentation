@@ -18,4 +18,4 @@ If you find any translation errors, please use issue or pull request to help us 
 
 本文档的文本使用 [`署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)`](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可
 
-The text of this document is licensed under an [`Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)`](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.s
+The text of this document is licensed under an [`Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)`](https://creativecommons.org/licenses/by-nc-sa/4.0/) license
