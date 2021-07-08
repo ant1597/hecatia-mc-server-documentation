@@ -44,6 +44,10 @@ sidebar_position: 2
 
 请前往 `#弹幕兽身份申请` 发送指令 `/account element <Element>` 来获取弹幕兽身份属性，请注意，这个属性在未来将不能更改。
 
+:::note
+请注意，即使拥有 `Gold` 角色，也必须同时拥有一个普通的四种角色之一。
+:::
+
 `<Element>` 可以是以下值：
 - `herba` : 草团
 - `aqua` : 水团

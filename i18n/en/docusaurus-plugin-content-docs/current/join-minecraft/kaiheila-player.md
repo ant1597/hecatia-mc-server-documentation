@@ -44,6 +44,10 @@ You can execute command `/account query` to get your information.
 
 Please go to `#弹幕兽身份申请` and send the command `/account element <Element>` to get your element role. Please note that this property will not be able to be changed in the future.
 
+:::note
+Note that even if you have a `Gold` role, you must also have a regular one of the four roles.
+:::
+
 `<Element>` can be the following values:
 - `herba` : Grass
 - `aqua` : Water
