@@ -37,6 +37,10 @@ sidebar_position: 3
 
 ![discord-command-pending](../../static/img/join-minecraft/discord-command-pending.png)
 
+如果出现和下图类似的错误，导致指令执行失败，请等待约 1 分钟，然后重试。该问题多为 Discord 服务器与 Microsoft Azure 数据中心之间的连接出现波动导致的，虽然返回数据失败，但是很有可能指令已经进入队列，如果在执行注册指令时遇到错误，请在等待一分钟后尝试执行 `/account query`，或许注册已经完成。
+
+![discord-failed](../../static/img/join-minecraft/discord-failed.png)
+
 稍等片刻，等待指令执行完成，执行成功的回复如下，其中包含了您的 UID 和 所选择的 Element 字符串。
 
 :::info
@@ -47,7 +51,7 @@ sidebar_position: 3
 
 ![discord-reg-command-finish](../../static/img/join-minecraft/discord-reg-command-finish.png)
 
-您可以使用 `/account query` 指令来获取账户信息，其中包含了您的 Discord 用户名，Discord UID，Element，Minecraft UUID，Minecraft 玩家名以及 Minecraft 账号类型（正版/离线模式）的信息。
+您可以使用 `/account query` 指令来获取账户信息，其中包含了您的 Discord 用户名，Discord UID，弹幕兽属性，Minecraft UUID，Minecraft 玩家名以及 Minecraft 账号类型（正版/离线模式）的信息。
 
 ![discord-query-command](../../static/img/join-minecraft/discord-query-command.png)
 

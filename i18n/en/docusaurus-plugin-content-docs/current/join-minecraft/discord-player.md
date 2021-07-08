@@ -37,7 +37,11 @@ After the command is issued, the server will receive the request and start proce
 
 ![discord-command-pending](../../../../../static/img/join-minecraft/discord-command-pending.png)
 
-Wait a moment for the command process to complete, and the successful response will be as follows, with your UID and the selected Element string.
+If an error similar to the figure below causes the command execution to fail, please wait about 1 minute and try again. This problem is mostly caused by the connection error between Discord server and Microsoft Azure data center. Although the command failed to return datas, it is very likely that the command has entered the queue. If you encounter an error when executing the registration command, please wait for 1 minute and try to execute `/account query` command, maybe the registration has already been completed.
+
+![discord-failed](../../../../../static/img/join-minecraft/discord-failed.png)
+
+Wait a moment for the command process to complete, and the successful response will be as follows, with your UID and the selected Chattor Element string.
 
 :::info
 For some unknown reasons, sometimes the command completion message is slow to return, please wait for a while and do not refresh the page or leave the channel, usually no more than 2 minute.
@@ -47,7 +51,7 @@ Based on the logs in the backend, we initially believe that this is caused by Di
 
 ![discord-reg-command-finish](../../../../../static/img/join-minecraft/discord-reg-command-finish.png)
 
-You can use the `/account query` command to get account information, which contains information about your Discord username, Discord UID, Element, Minecraft UUID, Minecraft player name, and Minecraft account type (premium/cracked).
+You can use the `/account query` command to get account information, which contains information about your Discord username, Discord UID, Chattor Element, Minecraft UUID, Minecraft player name, and Minecraft account type (premium/cracked).
 
 ![discord-query-command](../../../../../static/img/join-minecraft/discord-query-command.png)
 
