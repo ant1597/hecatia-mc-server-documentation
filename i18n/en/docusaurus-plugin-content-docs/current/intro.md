@@ -31,20 +31,17 @@ If you find any errors, please let us know via github.
 - [Twitter](https://twitter.com/Hecatiaz)
 - [Twitch](https://www.twitch.tv/hecatiaz)
 - [Patreon](https://www.patreon.com/Hecatia)
-- [Pixiv](https://www.pixiv.net/artworks/90288006)
-
+- [Pixiv](https://www.pixiv.net/users/66875796)
 
 ### Nibiru Research Center
 
 - [Github](https://github.com/NibiruResearchCenter)
-
 
 ### Community
 
 **Discord**
 
 <iframe src="https://discord.com/widget?id=590430475215175680&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 
 **Kaiheila (Chinese)**
 
