@@ -39,7 +39,6 @@ sidebar_position: 2
 
 ![kaiheila-query](../../static/img/join-minecraft/kaiheila-query.png)
 
-
 ## 第二步 - 获取弹幕兽身份
 
 请前往 `#弹幕兽身份申请` 发送指令 `/account element <Element>` 来获取弹幕兽身份属性，请注意，这个属性在未来将不能更改。
@@ -49,6 +48,7 @@ sidebar_position: 2
 :::
 
 `<Element>` 可以是以下值：
+
 - `Wind` : 草弹幕兽
 - `Aqua` : 海弹幕兽
 - `Fire` : 火弹幕兽
