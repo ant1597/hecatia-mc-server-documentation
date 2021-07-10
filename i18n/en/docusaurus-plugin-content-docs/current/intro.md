@@ -10,16 +10,16 @@ Welcome to Hecatia Minecraft Server Documentation
 [切换至中文](https://docs.hecatia.moe/)
 
 :::caution
-Most of the content is translated using DeepL and may contain inaccuracies.
+Most of the contents were translated using DeepL and may contain inaccuracies.
 
-If you find any errors, please let us know via github.
+If you find any errors, please let us know via [GitHub](https://github.com/NibiruResearchCenter/server-documentation/issues).
 :::
 
 ## About
 
 1. This documentation is built with [Docusaurus](https://docusaurus.io/), deployed on Azure Static Web App
 
-2. The source code is hosted on [Github](https://github.com/NibiruResearchCenter/server-documentation/)
+2. The source code is hosted on [GitHub][repo]
 
 3. The text of this document is licensed under an [`Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)`](https://creativecommons.org/licenses/by-nc-sa/4.0/) license
 
@@ -35,7 +35,7 @@ If you find any errors, please let us know via github.
 
 ### Nibiru Research Center
 
-- [Github](https://github.com/NibiruResearchCenter)
+- [GitHub][repo]
 
 ### Community
 
@@ -46,3 +46,5 @@ If you find any errors, please let us know via github.
 **Kaiheila (Chinese)**
 
 <iframe src="https://kaiheila.cn/widget?id=6287445672135030&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
+[repo]: https://github.com/NibiruResearchCenter/server-documentation
