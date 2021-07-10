@@ -18,6 +18,7 @@ sidebar_position: 3
 您可以前往任意一个频道（建议在 `#🤖bot-commands` 频道）输入指令 `/account reg <Element>` 即可。`Element` 参数有四个选项，Discord 会自动补全指令，并且显示可供选择的4个选项。
 
 `<Element>` 可以是以下值：
+
 - `Wind` : 草弹幕兽
 - `Aqua` : 海弹幕兽
 - `Fire` : 火弹幕兽
