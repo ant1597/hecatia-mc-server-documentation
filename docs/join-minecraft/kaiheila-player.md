@@ -50,9 +50,9 @@ sidebar_position: 2
 
 `<Element>` 可以是以下值：
 - `Wind` : 草弹幕兽
-- `aqua` : 海弹幕兽
+- `Aqua` : 海弹幕兽
 - `Fire` : 火弹幕兽
-- `earth` : 土弹幕兽
+- `Earth` : 土弹幕兽
 
 获取成功后，你将获得对应的角色标签。
 
