@@ -25,7 +25,7 @@ sidebar_position: 3
 
 每一种元素对应了服务器中的一个主城。
 
-第五种属性，`Energy` 是 `Twitch Subscriber` 和 Blibili 大航海用户专有的。
+第五种属性，`Energy` 是 `Twitch Subscriber` 和 Bilibili 大航海用户专有的。
 
 :::caution
 请注意，如果 Discord 没有自动补全指令，那么代表您没有在这个频道使用 Slash Command 的权限，建议前往 `#🤖bot-commands` 频道使用指令
