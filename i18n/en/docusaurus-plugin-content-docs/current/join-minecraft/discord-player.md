@@ -8,7 +8,7 @@ Please make sure that you would like to connect from Discord. You can only choos
 
 We recommend that players outside of China connect through Discord.
 
-- Users with the `Twitch Subscriber` role in Discord will get the `Energy` player access group in the server
+- Users with the `Twitch Subscriber` or `Pogtreon` role in Discord will get the `Energy` player access group in the server
 - Users with the `金弹幕兽（舰长）` or `提督弹幕兽` or `总督弹幕兽` role in Kaiheila will get the `Energy` player access group in the server
 
 ## The first step (and also the final step)

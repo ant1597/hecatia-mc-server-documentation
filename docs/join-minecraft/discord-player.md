@@ -8,7 +8,7 @@ sidebar_position: 3
 
 我们建议非中国玩家选择从 Discord 进行连接。
 
-- 在 Discord 中拥有 `Twitch Subscriber` 角色的用户将在服务器中获取 `Energy` 玩家权限组
+- 在 Discord 中拥有 `Twitch Subscriber` 或 `Pogtreon` 角色的用户将在服务器中获取 `Energy` 玩家权限组
 - 在 开黑啦 中拥有 `金弹幕兽（舰长）` 或 `提督弹幕兽` 或 `总督弹幕兽` 角色的用户将在服务器中获取 `Energy` 玩家权限组
 
 ## 第一步（也是最后一步）
