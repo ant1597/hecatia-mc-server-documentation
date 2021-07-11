@@ -13,11 +13,11 @@ sidebar_position: 2
 
 ## Server Cluster
 
-| Server name | Element | Status |
-| --- | --- | --- |
-| Summon Square | Mixed | Deployment in progress, going live soon |
-| Nibiru | Mixed | Deployment in progress, going live soon |
-| Nibiru Natural Development Area | Mixed | Deployment in progress, going live soon |
+| Server name | Element | Status | Intro |
+| --- | --- | --- | --- |
+| Summon Square | Mixed | Deployment in progress, going live soon | Login point and portal hall |
+| Nibiru | Mixed | Deployment in progress, going live soon | Five major cities |
+| Nibiru Natural Development Area | Mixed | Deployment in progress, going live soon | Survival and resource world  |
 
 ## Worlds in the server `Nibiru`
 
@@ -31,11 +31,11 @@ sidebar_position: 2
 
 ## Worlds in the server `Nibiru Natural Development Area`
 
-| World name | Element | Status |
-| --- | --- | --- |
-| The Wasteland of Nibiru | Mixed | Deployment in progress, going live soon |
-| The Nether of Nibiru | Mixed | Deployment in progress, going live soon |
-| The End World of Nibiru | Mixed | Deployment in progress, going live soon |
-| Unstable Interdimensional Wasteland | Mixed | Deployment in progress, going live soon |
-| Unstable Interdimensional Nether | Mixed | Deployment in progress, going live soon |
-| Unstable Interdimensional End World | Mixed | Deployment in progress, going live soon |
+| World name | Element | Status | Intro |
+| --- | --- | --- | --- |
+| The Wasteland of Nibiru | Mixed | Deployment in progress, going live soon | Permanent, limited size (±40000) |
+| The Nether of Nibiru | Mixed | Deployment in progress, going live soon | Permanent, limited size (±5000) |
+| The End World of Nibiru | Mixed | Deployment in progress, going live soon | Permanent |
+| Unstable Interdimensional Wasteland | Mixed | Deployment in progress, going live soon | ***Nonpermanent***, an announcement will be made two weeks before the update, ***unlimited*** size |
+| Unstable Interdimensional Nether | Mixed | Deployment in progress, going live soon | ***Nonpermanent***, an announcement will be made two weeks before the update,***unlimited*** size |
+| Unstable Interdimensional End World | Mixed | Deployment in progress, going live soon | ***Nonpermanent***, an announcement will be made two weeks before the update, ***unlimited*** size |
