@@ -19,7 +19,7 @@ If you find any errors, please let us know via [GitHub](https://github.com/Nibir
 
 1. This documentation is built with [Docusaurus](https://docusaurus.io/), deployed on Azure Static Web App
 
-2. The source code is hosted on [GitHub][repo]
+2. The source code is hosted on [GitHub](https://github.com/NibiruResearchCenter/server-documentation)
 
 3. The text of this document is licensed under an [`Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)`](https://creativecommons.org/licenses/by-nc-sa/4.0/) license
 
@@ -35,7 +35,7 @@ If you find any errors, please let us know via [GitHub](https://github.com/Nibir
 
 ### Nibiru Research Center
 
-- [GitHub][repo]
+- [GitHub](https://github.com/NibiruResearchCenter)
 
 ### Community
 
@@ -46,5 +46,3 @@ If you find any errors, please let us know via [GitHub](https://github.com/Nibir
 **Kaiheila (Chinese)**
 
 <iframe src="https://kaiheila.cn/widget?id=6287445672135030&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
-
-[repo]: https://github.com/NibiruResearchCenter/server-documentation
