@@ -13,7 +13,7 @@ slug: /
 
 1. 本文档使用 [Docusaurus](https://docusaurus.io/) 制作, 部署在 Azure Static Web App
 
-2. 本文档源代码托管于 [Github](https://github.com/NibiruResearchCenter/server-documentation/)
+2. 本文档源代码托管于 [GitHub](https://github.com/NibiruResearchCenter/server-documentation)
 
 3. 本文档的文本使用 [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可
 
@@ -29,7 +29,7 @@ slug: /
 
 ### 尼比鲁研究中心
 
-- [Github](https://github.com/NibiruResearchCenter)
+- [GitHub](https://github.com/NibiruResearchCenter)
 
 ### 社区
 
