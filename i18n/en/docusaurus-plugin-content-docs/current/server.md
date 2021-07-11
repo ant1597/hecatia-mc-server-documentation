@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Server status
+# Server and World status
 
 ## Login point
 
@@ -15,10 +15,27 @@ sidebar_position: 2
 
 | Server name | Element | Status |
 | --- | --- | --- |
-| 召唤广场 (Summon Square) | 混合 (Mixed) | Deployment in progress, going live soon |
-| 尼比鲁自然保护区 (Nibiru Nature Reserve) | 混合 (Mixed) | Deployment in progress, going live soon |
-| 金之城·特拉匹斯 (Telapis) | 金 (Energy) | Deployment in progress, going live soon |
-| 花之乡·阿尔卡泰尔 (Arkatelle) | 木 (Wind) | Planned, unreleased |
-| 海之都·米纳特米 (Minatemi) | 水 (Aqua) | Planned, unreleased |
-| 火之域·故土 (Gutu) | 火 (Fire) | Planned, unreleased |
-| 土之国·都尔阿萨斯 (Duer Asuz) | 土 (Earth) | Planned, unreleased |
+| Summon Square | Mixed | Deployment in progress, going live soon |
+| Nibiru | Mixed | Deployment in progress, going live soon |
+| Nibiru Natural Development Area | Mixed | Deployment in progress, going live soon |
+
+## Worlds in the server `Nibiru`
+
+| World name | Element | Status |
+| --- | --- | --- |
+| Telapis | Energy (金) | Deployment in progress, going live soon |
+| Arkatelle | Wind (木) | Planned, unreleased |
+| Minatemi | Aqua (水) | Planned, unreleased |
+| Gutu | Fire (火) | Planned, unreleased |
+| Duer Asuz | Earth (土) | Planned, unreleased |
+
+## Worlds in the server `Nibiru Natural Development Area`
+
+| World name | Element | Status |
+| --- | --- | --- |
+| The Wasteland of Nibiru | Mixed | Deployment in progress, going live soon |
+| The Nether of Nibiru | Mixed | Deployment in progress, going live soon |
+| The End World of Nibiru | Mixed | Deployment in progress, going live soon |
+| Unstable Interdimensional Wasteland | Mixed | Deployment in progress, going live soon |
+| Unstable Interdimensional Nether | Mixed | Deployment in progress, going live soon |
+| Unstable Interdimensional End World | Mixed | Deployment in progress, going live soon |
