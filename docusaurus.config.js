@@ -60,7 +60,7 @@ module.exports = {
             },
             {
               label: "Pixiv",
-              href: "https://www.pixiv.net/artworks/90288006",
+              href: "https://www.pixiv.net/users/66875796",
             },
           ],
         },
@@ -81,7 +81,7 @@ module.exports = {
           title: "Nibiru Research Center | 尼比鲁研究中心",
           items: [
             {
-              label: "Github",
+              label: "GitHub",
               href: "https://github.com/NibiruResearchCenter/",
             },
           ],
