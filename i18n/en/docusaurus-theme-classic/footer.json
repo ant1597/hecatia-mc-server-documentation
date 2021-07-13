@@ -41,7 +41,7 @@
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
-    "description": "The label of footer link with label=GitHub link to https://github.com/NibiruResearchCenter/"
+    "description": "The label of footer link with label=GitHub linking to https://github.com/NibiruResearchCenter/"
   },
   "copyright": {
     "message": "Copyright © 2021 Nibiru Research Center. Built with Docusaurus.",
