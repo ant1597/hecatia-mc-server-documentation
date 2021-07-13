@@ -31,7 +31,7 @@ module.exports = {
         },
         {
           href: "https://github.com/NibiruResearchCenter/",
-          label: "Github organization",
+          label: "GitHub organization",
           position: "right",
         },
       ],
