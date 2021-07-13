@@ -26,6 +26,7 @@ slug: /
 - [Twitch](https://www.twitch.tv/hecatiaz)
 - [Patreon](https://www.patreon.com/Hecatia)
 - [Pixiv](https://www.pixiv.net/users/66875796)
+- [Weibo](https://weibo.com/u/7363797389)
 
 ### 尼比鲁研究中心
 

@@ -31,6 +31,10 @@
     "message": "Pixiv",
     "description": "The label of footer link with label=Pixiv linking to https://www.pixiv.net/artworks/90288006"
   },
+  "link.item.label.Weibo": {
+    "message": "Weibo",
+    "description": "The label of footer link with label=Weibo linking to https://weibo.com/u/7363797389"
+  },
   "link.item.label.Discord (English)": {
     "message": "Discord (English)",
     "description": "The label of footer link with label=Discord (English) linking to https://discord.gg/hecatia"
