@@ -7,8 +7,8 @@
     "message": "GitHub repo",
     "description": "Navbar item with label GitHub repo"
   },
-  "item.label.Github organization": {
-    "message": "Github organization",
-    "description": "Navbar item with label Github organization"
+  "item.label.GitHub organization": {
+    "message": "GitHub organization",
+    "description": "Navbar item with label GitHub organization"
   }
 }
