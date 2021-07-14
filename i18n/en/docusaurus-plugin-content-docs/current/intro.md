@@ -32,6 +32,7 @@ If you find any errors, please let us know via [GitHub](https://github.com/Nibir
 - [Twitch](https://www.twitch.tv/hecatiaz)
 - [Patreon](https://www.patreon.com/Hecatia)
 - [Pixiv](https://www.pixiv.net/users/66875796)
+- [Weibo](https://weibo.com/u/7363797389)
 
 ### Nibiru Research Center
 

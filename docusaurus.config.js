@@ -62,6 +62,10 @@ module.exports = {
               label: "Pixiv",
               href: "https://www.pixiv.net/artworks/90288006",
             },
+            {
+              label: "Weibo",
+              href: "https://weibo.com/u/7363797389",
+            },
           ],
         },
         {
