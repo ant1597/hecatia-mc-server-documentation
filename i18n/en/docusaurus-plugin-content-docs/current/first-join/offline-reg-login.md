@@ -13,7 +13,7 @@ If you are a premium player, please skip this section and go to [Account Binding
 
 After successfully entering the server in offline mode, you will receive the following prompt:
 
-![player-id-has-been-taken](../../static/img/first-join/cracked-unreg.png)
+![player-id-has-been-taken](../../../../../static/img/first-join/cracked-unreg.png)
 
 You need to use command `/account reg <Password>` for registration.
 

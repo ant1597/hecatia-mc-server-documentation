@@ -16,4 +16,4 @@ There are some authentication operations that need to be performed to access the
 
 
 ***If your cracked player name is already occupied by a premium player, you will be kicked from the server and receive the following message***
-![player-id-has-been-taken](../../static/img/first-join/player-id-has-been-taken.png)
+![player-id-has-been-taken](../../../../../static/img/first-join/player-id-has-been-taken.png)
