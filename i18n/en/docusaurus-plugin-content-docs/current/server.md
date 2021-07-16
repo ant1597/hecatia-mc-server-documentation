@@ -8,22 +8,22 @@ sidebar_position: 2
 
 | Type | Connection Address | Status |
 | --- | --- | --- |
-| Premium player login point | Not announced yet | Deployment in progress, going live soon |
-| Cracked player login point | Not announced yet | Deployment in progress, going live soon |
+| Premium player login point | Release at 2021-7-17 14:30(±5 min) (UTC+8) | Running well |
+| Cracked player login point | Release at 2021-7-17 14:30(±5 min) (UTC+8) | Running well |
 
 ## Server Cluster
 
 | Server name | Element | Status | Intro |
 | --- | --- | --- | --- |
-| Summon Square | Mixed | Deployment in progress, going live soon | Login point and portal hall |
-| Nibiru | Mixed | Deployment in progress, going live soon | Five major cities |
-| Nibiru Natural Development Area | Mixed | Deployment in progress, going live soon | Survival and resource world  |
+| Summon Square | Mixed | Running well | Login point and portal hall |
+| Nibiru | Mixed | Running well | Five major cities |
+| Nibiru Natural Development Area | Mixed | Running well | Survival and resource world  |
 
 ## Worlds in the server `Nibiru`
 
 | World name | Element | Status |
 | --- | --- | --- |
-| Telapis | Energy (金) | Deployment in progress, going live soon |
+| Telapis | Energy (金) | Running well |
 | Arkatelle | Wind (木) | Planned, unreleased |
 | Minatemi | Aqua (水) | Planned, unreleased |
 | Gutu | Fire (火) | Planned, unreleased |
@@ -33,9 +33,9 @@ sidebar_position: 2
 
 | World name | Element | Status | Intro |
 | --- | --- | --- | --- |
-| The Wasteland of Nibiru | Mixed | Deployment in progress, going live soon | Permanent, limited size (±40000) |
-| The Nether of Nibiru | Mixed | Deployment in progress, going live soon | Permanent, limited size (±5000) |
-| The End World of Nibiru | Mixed | Deployment in progress, going live soon | Permanent |
-| Unstable Interdimensional Wasteland | Mixed | Deployment in progress, going live soon | ***Nonpermanent***, an announcement will be made two weeks before the update, ***unlimited*** size |
-| Unstable Interdimensional Nether | Mixed | Deployment in progress, going live soon | ***Nonpermanent***, an announcement will be made two weeks before the update,***unlimited*** size |
-| Unstable Interdimensional End World | Mixed | Deployment in progress, going live soon | ***Nonpermanent***, an announcement will be made two weeks before the update, ***unlimited*** size |
+| The Wasteland of Nibiru | Mixed | Running well | Permanent, limited size (±40000) |
+| The Nether of Nibiru | Mixed | Running well | Permanent, limited size (±5000) |
+| The End World of Nibiru | Mixed | Running well | Permanent |
+| Unstable Interdimensional Wasteland | Mixed | Running well | ***Nonpermanent***, an announcement will be made two weeks before the update, ***unlimited*** size |
+| Unstable Interdimensional Nether | Mixed | Running well | ***Nonpermanent***, an announcement will be made two weeks before the update,***unlimited*** size |
+| Unstable Interdimensional End World | Mixed | Running well | ***Nonpermanent***, an announcement will be made two weeks before the update, ***unlimited*** size |
