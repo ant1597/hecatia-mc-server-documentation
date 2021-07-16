@@ -10,5 +10,9 @@
   "sidebar.tutorialSidebar.category.第一次进入服务器": {
     "message": "First time to the server",
     "description": "The label for category 第一次进入服务器 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.关于各个世界": {
+    "message": "About worlds",
+    "description": "The label for category 关于各个世界 in sidebar tutorialSidebar"
   }
 }
