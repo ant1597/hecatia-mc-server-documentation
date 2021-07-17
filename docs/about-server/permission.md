@@ -21,6 +21,9 @@ sidebar_position: 1
 
 ## 基本权限组
 
+`Wind` `Aqua` `Fire` `Earth` 这四个权限所有玩家必定有且只有其中一个。
+`Energy` 权限组为其他四种权限组的扩充，其玩家名前缀会覆盖其他四种前缀。
+
 | 权限组名 | 玩家前缀 | 权限 | 人员 |
 | --- | --- | --- | --- |
 | Energy | Energy | 基本玩家权限，可以获得金之城 II 环的居民区地皮 1 块 | Bilibili 大航海，Twitch Subscriber，Patreon Supporter |
