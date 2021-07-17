@@ -8,8 +8,8 @@ sidebar_position: 2
 
 | Type | Connection Address | Status |
 | --- | --- | --- |
-| Premium player login point | Release at 2021-7-17 17:30(±5 min) (UTC+8) | Running well |
-| Cracked player login point | Release at 2021-7-17 17:30(±5 min) (UTC+8) | Running well |
+| Premium player login point | online.hecatia.top | Running well |
+| Cracked player login point | cracked.hecatia.top | Running well |
 
 ## Server Cluster
 
