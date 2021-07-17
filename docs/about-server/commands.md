@@ -14,7 +14,7 @@ sidebar_position: 2
 - `/sethome <Name>` 设置一个 Home (每个服务器不共享，每个服务器至多 3 个)
 - `/delhome <Name>` 删除一个 Home
 - `/home <Name>` 传送到一个 Home
-- `/spaen` 返回当前所在服务器的出生点
+- `/spawn` 返回当前所在服务器的出生点
 - `/back` 返回死亡地点或上一次传送前所在的位置
 
 ## 地皮
