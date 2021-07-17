@@ -5,7 +5,7 @@ sidebar_position: 2
 # 离线模式的注册与登录
 
 :::info
-如果你是正版玩家，请跳过本章节，前往 [账号绑定](./first-join.md)
+如果你是正版玩家，请跳过本章节，前往 [账号绑定](./account-binding.md)
 :::
 
 

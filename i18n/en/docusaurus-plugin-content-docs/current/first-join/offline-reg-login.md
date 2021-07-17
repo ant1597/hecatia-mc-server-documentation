@@ -5,7 +5,7 @@ sidebar_position: 2
 # Cracked players registration and login
 
 :::info
-If you are a premium player, please skip this section and go to [Account Binding](./first-join.md)
+If you are a premium player, please skip this section and go to [Account Binding](./account-binding.md)
 :::
 
 
