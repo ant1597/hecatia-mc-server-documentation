@@ -22,8 +22,8 @@ Standard Minecraft world group. Permanent.
 
 ### World settings
 
-- Overworld worldborder ±40000 blocks
-- Nether worldborder ±8000 blocks
+- Overworld worldborder ±8000 blocks
+- Nether worldborder ±1000 blocks
 - No limit in the End now
 
 ### Overworld spawn point

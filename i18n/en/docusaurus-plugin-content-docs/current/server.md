@@ -33,8 +33,8 @@ sidebar_position: 2
 
 | World name | Element | Status | Intro |
 | --- | --- | --- | --- |
-| The Wasteland of Nibiru | Mixed | Running well | Permanent, limited size (±40000) |
-| The Nether of Nibiru | Mixed | Running well | Permanent, limited size (±5000) |
+| The Wasteland of Nibiru | Mixed | Running well | Permanent, limited size (±8000) |
+| The Nether of Nibiru | Mixed | Running well | Permanent, limited size (±1000) |
 | The End World of Nibiru | Mixed | Running well | Permanent |
 | Unstable Interdimensional Wasteland | Mixed | Running well | ***Nonpermanent***, an announcement will be made two weeks before the update, ***unlimited*** size |
 | Unstable Interdimensional Nether | Mixed | Running well | ***Nonpermanent***, an announcement will be made two weeks before the update,***unlimited*** size |
