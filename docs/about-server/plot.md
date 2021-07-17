@@ -22,7 +22,7 @@ sidebar_position: 3
 
 ![plot-sign](../../static/img/about-server/plot-sign.png)
 
-邮件告示牌即可获取这一块地皮：
+右键告示牌即可获取这一块地皮：
 
 ![plot-sign-claim](../../static/img/about-server/plot-sign-claim.png)
 
