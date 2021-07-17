@@ -14,5 +14,9 @@
   "sidebar.tutorialSidebar.category.关于各个世界": {
     "message": "About worlds",
     "description": "The label for category 关于各个世界 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.关于服务器": {
+    "message": "About server",
+    "description": "The label for category 关于服务器 in sidebar tutorialSidebar"
   }
 }
