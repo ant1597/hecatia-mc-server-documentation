@@ -8,14 +8,10 @@ sidebar_position: 2
 
 ***这些指令不能跨服使用，只能在同一个服务器内传送***
 
-- `/tpa <ID>` 请求传送至某个玩家
-- `/tpaccept` 同意传送请求
-- `/tpdeny` 拒绝传送请求
 - `/sethome <Name>` 设置一个 Home (每个服务器不共享，每个服务器至多 3 个)
 - `/delhome <Name>` 删除一个 Home
 - `/home <Name>` 传送到一个 Home
 - `/spawn` 返回当前所在服务器的出生点
-- `/back` 返回死亡地点或上一次传送前所在的位置
 
 ## 地皮
 

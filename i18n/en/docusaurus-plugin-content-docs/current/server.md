@@ -4,6 +4,10 @@ sidebar_position: 2
 
 # Server and World status
 
+:::danger
+Attention! The server will roll back after finishing the BETA test.
+:::
+
 ## Login point
 
 | Type | Connection Address | Status |
