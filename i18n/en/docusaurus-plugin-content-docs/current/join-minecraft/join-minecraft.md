@@ -8,7 +8,7 @@ Before entering the Minecraft server, you need to do several preparations.
 
 ## What you need to prepare
 
-First, you need to prepare a Minecraft client. The version of Minecraft we are using is `1.17`. You can join and play whether you are using the premium or cracked client. For the differences, please see [Differences between premium and cracked](#difference-between-premium-and-cracked) below.
+First, you need to prepare a Minecraft client. The version of Minecraft we are using is `1.17.1`. You can join and play whether you are using the premium or cracked client. For the differences, please see [Differences between premium and cracked](#difference-between-premium-and-cracked) below.
 
 Second, depending on your community (Kaiheila or Discord), check [Connect from Kaiheila](./kaiheila-player.md) or  [Connect from discord](./discord-player.md) to register.
 
